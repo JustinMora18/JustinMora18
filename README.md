@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Justin. I'm a 21 y/o computer Science Student at Union College NJ 
+- 👋 Hi, I’m Justin. I'm a 22 y/o computer Science Student at Union College NJ 
 - 👀 I’m interested in Video games, Fashion, Coding, and Design.
-- 🌱 I’m currently learning Java, C++
+- 🌱 I’m currently learning Java, C++, Web design 
 - 📫 How to reach me: Justindaniel1810@gmail.com 
 - 😄 Pronouns: he/Him
   
