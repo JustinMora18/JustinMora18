@@ -1,6 +1,6 @@
 ## Hey, I'm Justin 👋
 
-- 👨🏻‍💻 Computer Science Student at Keen University<br/>
+- 👨🏻‍💻 Computer Science Student at Kean University<br/>
 - 👀 I'm also into Design, Photography, Videogames<br/>
 - 🌱 I'm currently learning Web development and design<br/>
 
