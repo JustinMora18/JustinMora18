@@ -14,7 +14,7 @@
 
 ###
 
-<div align="center">
+<div flow-direction="row" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="530" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="530" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="530" height="40" alt="microsoft-outlook logo"  />
@@ -67,9 +67,5 @@
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/28/c9/17/28c917de86b474acd62a09e2162a681a.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JustinMora18/JustinMora18/output/snake.svg" alt="Snake animation" />
 
 ###
