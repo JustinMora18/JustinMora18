@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://i.pinimg.com/originals/2c/61/9b/2c619b5bea0e79e79fae9c078f2e04ce.gif"  />
+  <img width="210" height="210" src="https://i.pinimg.com/originals/2c/61/9b/2c619b5bea0e79e79fae9c078f2e04ce.gif"  />
 </div>
 
 ###
@@ -31,35 +31,35 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
   <img width="44" />
-  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
   <img width="44" />
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
   <img width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
   <img width="44" />
-  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="20" alt="java logo"  />
   <img width="44" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="20" alt="cplusplus logo"  />
   <img width="44" />
-  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
   <img width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
   <img width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="32" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="20" alt="chrome logo"  />
   <img width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="32" alt="safari logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="20" alt="safari logo"  />
   <img width="44" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="32" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="20" alt="figma logo"  />
   <img width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="32" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="20" alt="illustrator logo"  />
   <img width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="32" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="20" alt="photoshop logo"  />
   <img width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
   <img width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="32" alt="xcode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="20" alt="xcode logo"  />
 </div>
 
 ###
