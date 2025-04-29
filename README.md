@@ -87,9 +87,8 @@
 
 ###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Small steps every day lead to big changes.-4542f5" />
-  
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
 
 ###
