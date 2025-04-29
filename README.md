@@ -1,20 +1,75 @@
-## Hey, I'm Justin 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 👨🏻‍💻 Computer Science Student at Kean University<br/>
-- 👀 I'm also into Design, Photography, Videogames<br/>
-- 🌱 I'm currently learning Web development and design<br/>
+###
 
+<p align="left">I'm Justin and I'm a Computer Science Student from Ecuador.</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_whoisjustiin?igsh=cThwMHUzeG9yYWJk&utm_source=qr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Justindaniel1810@gmail.com) 
+###
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="left">About me</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=JustinMora&icon=8&color=3)](https://visitcount.itsvg.in)
+<p align="left">- 👨🏻‍💻 Student at Kean University<br>- 👀 I'm into Graphic Design, Photography.<br>- 🌱 I'm currently learning Web development, Assembly language, and design. <br>- ✨Aspiring Full-Stack Developer & Designer</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="530" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="530" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="530" height="40" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="210" src="https://i.pinimg.com/originals/2c/61/9b/2c619b5bea0e79e79fae9c078f2e04ce.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
+  <img width="44" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
+  <img width="44" />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
+  <img width="44" />
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
+  <img width="44" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo"  />
+  <img width="44" />
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+  <img width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
+  <img width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="32" alt="chrome logo"  />
+  <img width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="32" alt="safari logo"  />
+  <img width="44" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="32" alt="figma logo"  />
+  <img width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="32" alt="illustrator logo"  />
+  <img width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="32" alt="photoshop logo"  />
+  <img width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
+  <img width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="32" alt="xcode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/28/c9/17/28c917de86b474acd62a09e2162a681a.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JustinMora18/JustinMora18/output/snake.svg" alt="Snake animation" />
+
+###
