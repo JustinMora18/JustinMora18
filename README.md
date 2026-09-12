@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">- 👨🏻‍💻 Student at Kean University<br>- 👀 I'm into Graphic Design, Photography.<br>- 🌱 I'm currently learning Web development, Assembly language, and design. <br>- ✨Aspiring Full-Stack Developer & Designer</h4>
+<h4 align="center">- 👨🏻‍💻 Student at Kean University<br>- 👀 I'm into Graphic Design, Photography.<br>- 🌱 I'm currently learning Web development,Databases (SQL), AI tools, Design Tools. <br>- ✨Aspiring Full-Stack Developer & Designer</h4>
 
 ###
 
