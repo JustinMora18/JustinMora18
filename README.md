@@ -44,35 +44,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=css" height="35v" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="35" alt="chrome logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="35" alt="safari logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="35" alt="figma logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" alt="photoshop logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="35" alt="xcode logo"  />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,reactjs,nextjs,nodejs,python,java,github,git,figma,adobeillustrator,adobephotoshop,adobelightroom,apple,claudecode,codex,blender&perline=15&radius=30" alt="Skill Icons" />
 </div>
 
 ###
