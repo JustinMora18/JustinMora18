@@ -19,11 +19,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-<div align="center">
-  <a href="https://www.threads.com/@_whoisjustiin?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/11673/11673512.png" width="48" height="48" alt="threads logo" />
-  </a>
-</div>
 
 ###
 
@@ -54,7 +49,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/28/c9/17/28c917de86b474acd62a09e2162a681a.gif"  />
+  <img width="800" height="450" alt="jmGITHUBgif" src="https://github.com/user-attachments/assets/275bb310-6d4e-45b1-bd23-3e57319ea7d1" />
 </div>
 
 ###
